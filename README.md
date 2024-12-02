@@ -8,7 +8,7 @@ This repository focuses on predicting Titanic passenger survival using logistic 
 ## **Project Overview**  
 This project focuses on predicting the survival of Titanic passengers using logistic regression. By analyzing demographic and ticket-related data, the model determines whether a passenger is likely to survive or not. The dataset, sourced from Kaggle, has been semi-cleaned to enable efficient analysis and modeling.  
 
----
+---------------
 
 ## **Dataset Features**  
 The Titanic dataset includes various attributes that contribute to the survival prediction:  
